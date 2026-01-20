@@ -62,11 +62,8 @@ Married women aged 26–35 from UP, Maharashtra, Karnataka, working in high-payi
 
 ## Actionable Business Recommendations
 
-### Optimize Inventory & Promotions: 
-Focus on top-selling product categories in high-value regions.
-
-### Targeted Marketing Campaigns: 
-Personalize campaigns for married women aged 26–35 in IT, Healthcare, and Aviation sectors to increase repeat purchases.
+1. Optimize Inventory & Promotions: Focus on top-selling product categories in high-value regions.
+2. Targeted Marketing Campaigns: Personalize campaigns for married women aged 26–35 in IT, Healthcare, and Aviation sectors to increase repeat purchases.
 
 ### Geography-Specific Pricing: 
 Consider regional differences in purchasing power when designing pricing strategies or offers.
