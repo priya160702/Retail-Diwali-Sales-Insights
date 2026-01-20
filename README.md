@@ -13,7 +13,7 @@ Enhance Customer Experience: Understand buying behavior across demographics, geo
 Increase Revenue: Identify high-performing products, optimize inventory, and design targeted marketing strategies.
 
 ## Approach & Methodology
-### Data Cleaning and Preparation
+Data Cleaning and Preparation
 
 Removed null and duplicate values to ensure dataset integrity.
 
@@ -21,7 +21,7 @@ Standardized column names for consistency and readability.
 
 Corrected data types and resolved categorical inconsistencies to enable accurate analysis.
 
-### Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 
 Analyzed Demographics: Gender, age, marital status, occupation.
 
@@ -34,21 +34,21 @@ Applied descriptive statistics, aggregations, and visualizations using Pandas, M
 Explored relationships between number of orders vs total spend, revealing patterns in purchasing power and product preferences.
 
 ## Key Insights
-### Customer Demographics
+Customer Demographics
 
 Predominantly married women aged 26–35, representing the segment with the highest purchasing power.
 
-### Geographic Trends
+Geographic Trends
 
 Highest sales volume: Uttar Pradesh, Maharashtra, Karnataka
 
 High per-customer spend: Haryana, despite fewer orders
 
-### Occupation-Based Patterns
+Occupation-Based Patterns
 
 High-value customers mainly from IT, Healthcare, and Aviation sectors
 
-### Product Preferences
+Product Preferences
 
 Most orders: Clothing > Food > Electronics
 
@@ -56,7 +56,7 @@ Highest revenue: Food > Electronics > Clothing
 
 Indicates a distinction between purchase frequency and revenue contribution
 
-### Segmentation Insight
+Segmentation Insight
 
 Married women aged 26–35 from UP, Maharashtra, Karnataka, working in high-paying sectors, show strong preference for Food, Clothing, and Electronics
 
