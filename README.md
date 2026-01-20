@@ -64,9 +64,5 @@ Married women aged 26–35 from UP, Maharashtra, Karnataka, working in high-payi
 
 1. Optimize Inventory & Promotions: Focus on top-selling product categories in high-value regions.
 2. Targeted Marketing Campaigns: Personalize campaigns for married women aged 26–35 in IT, Healthcare, and Aviation sectors to increase repeat purchases.
-
-### Geography-Specific Pricing: 
-Consider regional differences in purchasing power when designing pricing strategies or offers.
-
-### Cross-Selling Opportunities: 
-Promote Food, Clothing, and Electronics bundles for high-value customer segments.
+3. Geography-Specific Pricing: Consider regional differences in purchasing power when designing pricing strategies or offers.
+4. Cross-Selling Opportunities: Promote Food, Clothing, and Electronics bundles for high-value customer segments.
